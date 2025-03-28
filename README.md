@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishab Jaiswal</h1>
 <h3 align="center">A software Developer from India</h3>
 
-- 🔭 I’m currently working on [Iris Dataset and some mini game projects](https://github.com/Rishab933/Machine-Learning---The-Iris-Dataset)
+- 🔭 I’m currently working on [Sentimental Analysis on Election dataset]
 
 - 🌱 I’m currently learning **python**
 
